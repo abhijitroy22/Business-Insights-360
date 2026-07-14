@@ -133,5 +133,5 @@ Business Insights 360 demonstrates the development of an end-to-end Business Int
 
 Feel free to connect with me or explore more of my work.
 
-- 🌐 [LinkedIn](www.linkedin.com/in/abhijit-roy22)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/abhijit-roy22)
 - 📧 Email: royabhijit4298@gmail.com
